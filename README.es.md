@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.jpg" alt="SvillarroelZ_Banner" style="width:100%; max-height:250px; object-fit:cover; border-radius:12px;" />
+  <img src="banner.jpg" alt="SvillarroelZ_Banner" width="80%" />
 </p>
 
 <p align="center"><strong>Falla rápido. Mejora continuamente.</strong></p>
@@ -37,7 +37,7 @@ Actualmente finalizo **AWS re/Start (Cloud Practitioner)** y completé un **Dipl
 
 #### Cloud & Infraestructura
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40" alt="AWS"/>
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" alt="AWS"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Linux"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40" alt="Terraform"/>
 </p>
@@ -55,7 +55,7 @@ Actualmente finalizo **AWS re/Start (Cloud Practitioner)** y completé un **Dipl
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="40" alt="GitLab"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" width="40" alt="Bitbucket"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40" alt="Jenkins"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jfrog/jfrog-original.svg" width="40" alt="JFrog"/>
+  <img src="https://www.vectorlogo.zone/logos/jfrog/jfrog-icon.svg" width="40" alt="JFrog"/>
 </p>
 
 #### Fundamentos Web (background)
