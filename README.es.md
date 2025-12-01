@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.jpg" alt="SvillarroelZ_Banner" width="100%" height="85%" />
+  <img src="banner.jpg" alt="SvillarroelZ_Banner" width="100%" height="60%" />
 </p>
 
 <p align="center"><strong>Falla rápido. Mejora continuamente.</strong></p>
@@ -37,8 +37,6 @@ Actualmente finalizo **AWS re/Start (Cloud Practitioner)** y completé un **Dipl
 
 #### Cloud & Infraestructura
 <p>
-  https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg
-
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" alt="AWS"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Linux"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40" alt="Terraform"/>
