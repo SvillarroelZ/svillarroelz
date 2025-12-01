@@ -1,6 +1,7 @@
 <h3 align="center">A passionate frontend developer from Chile</h3>
 
 
+<p><img align="center" src="https://github-readme-stats-rstaa-rickstaa.vercel.app/api/top-langs?username=svillarroelz&show_icons=true&locale=en&layout=compact" alt="svillarroelz" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
