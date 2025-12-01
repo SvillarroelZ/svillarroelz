@@ -1,16 +1,91 @@
-<h3 align="center">A passionate frontend developer from Chile</h3>
+<h1 align="center">Hi, I'm Sofia</h1>
+<p align="center"><strong>Developer & Self-Learning Enthusiast — Fail fast. Improve continuously.</strong></p>
+<p align="center">🇨🇱 Based in Chile • Remote-ready • LATAM timezone (UTC-3)</p>
 
+<p align="center">Cloud & Automation • Python • Linux • AWS & GCP • Transitioning into Cloud/DevOps</p>
 
-<p><img align="center" src="https://github-readme-stats-rstaa-rickstaa.vercel.app/api/top-langs?username=svillarroelz&show_icons=true&locale=en&layout=compact" alt="svillarroelz" /></p>
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/svillarroelz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/svillarroelz/" height="30" width="40" /></a>
+### About Me  
+I'm a **developer** with hands-on experience in automation, cloud support, and technical troubleshooting, currently transitioning into the Cloud/DevOps ecosystem.  
+
+I’ve worked in hybrid environments using **Python, Bash, Linux, Terraform, CI/CD pipelines, Docker (basic), and AWS/GCP monitoring**, and I enjoy building systems that reduce manual effort and improve operational reliability.
+
+My learning model is simple:  
+**experiment quickly, learn intentionally, and improve continuously.**
+
+I am currently completing **AWS re/Start (Cloud Practitioner)** and have recently finished a **Diploma in Python & Data Science**, strengthening a path that connects backend logic, cloud fundamentals, systems thinking, and automation.
+
+---
+
+### Current Focus  
+- AWS Cloud fundamentals: VPC, IAM, CloudWatch, EC2, S3  
+- Automation using Python & Bash (logs, validations, small workflows)  
+- Linux operations: diagnostics, permissions, processes, monitoring  
+- Terraform basics for IaC workflows  
+- CI/CD pipelines (GitLab CI/CD, Bitbucket Pipelines, GitHub Actions familiarity)  
+- Strengthening backend and cloud-native problem solving  
+
+---
+
+### Tech Stack  
+
+#### **Cloud & Infrastructure**
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="45"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+#### **Automation & Scripting**
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="45"/>
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=svillarroelz&show_icons=true&locale=en&layout=compact" alt="svillarroelz" /></p>
-<p><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=svillarroelz&show_icons=true&locale=en&layout=compact" alt="svillarroelz" /></p>
+#### **Dev Tools & CI/CD**
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45"/>
+</p>
 
+#### **Web Foundations (background)**
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+</p>
+
+---
+
+### What I Value  
+- Clear documentation and reproducible processes  
+- Simplicity and intentional design  
+- Service reliability, automation, and operational efficiency  
+- Learning as a discipline, not a rush  
+- Breaking → fixing → understanding → improving  
+
+---
+
+### Projects  
+You can find my pinned repositories below —  
+they reflect my focus on **cloud fundamentals, Python automation, and hands-on learning**.
+
+---
+
+### Connect with Me  
+<p>
+  <a href="https://www.linkedin.com/in/svillarroelz">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
+  </a>
+</p>
+
+---
+
+<p align="center"><i>Developer & self-learning enthusiast. Fail fast. Improve continuously.</i></p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=svillarroelz&label=Profile%20views&color=0e75b6&style=flat" alt="svillarroelz" />
+</p>
