@@ -35,30 +35,30 @@ Actualmente finalizo **AWS re/Start (Cloud Practitioner)** y completé un **Dipl
 
 ### Stack tecnológico  
 
-#### ☁️ Cloud & Infraestructura
+#### Cloud & Infraestructura
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="55" alt="AWS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" alt="Linux"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="45" alt="Terraform"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40" alt="AWS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Linux"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40" alt="Terraform"/>
 </p>
 
-#### ⚙️ Automatización & Scripting
+#### Automatización & Scripting
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="45" alt="Bash"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" alt="Bash"/>
 </p>
 
-#### 🚀 Herramientas & CI/CD
+#### Herramientas & CI/CD
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" alt="GitHub"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="45" alt="GitLab"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" width="45" alt="Bitbucket"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="45" alt="Jenkins"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jfrog/jfrog-original.svg" width="45" alt="JFrog"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" alt="GitHub"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="40" alt="GitLab"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" width="40" alt="Bitbucket"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40" alt="Jenkins"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jfrog/jfrog-original.svg" width="40" alt="JFrog"/>
 </p>
 
-#### 🌐 Fundamentos Web (background)
+#### Fundamentos Web (background)
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" alt="React"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
@@ -67,7 +67,7 @@ Actualmente finalizo **AWS re/Start (Cloud Practitioner)** y completé un **Dipl
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" width="40" alt="GraphQL"/>
 </p>
 
-#### 🧪 Testing (nivel introductorio)
+#### Testing (nivel introductorio)
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" width="40" alt="Jest"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" width="40" alt="Pytest"/>
@@ -77,7 +77,7 @@ Actualmente finalizo **AWS re/Start (Cloud Practitioner)** y completé un **Dipl
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="40" alt="Jira"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original.svg" width="40" alt="Confluence"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="32" alt="GCP"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" alt="GCP"/>
 </p>
 
 ---
