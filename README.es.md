@@ -1,18 +1,18 @@
 <p align="center">
-  <img src="banner.jpg" alt="SvillarroelZ_Banner" width="100%" />
+  <img src="banner.jpg" alt="SvillarroelZ_Banner" style="width:100%; max-height:250px; object-fit:cover; border-radius:12px;" />
 </p>
 
 <p align="center"><strong>Falla rápido. Mejora continuamente.</strong></p>
 <p align="center">🇨🇱 Chile • Trabajo remoto/híbrido • Zona horaria LATAM (UTC-3)</p>
 
-<p align="center">Cloud & Automatización • Python • Linux • AWS & GCP • Transición hacia Cloud/DevOps</p>
+<p align="center">Cloud & Automatización • Python • Linux • AWS • Transición hacia Cloud/DevOps</p>
 
 ---
 
 ### Sobre mí  
 Soy **desarrolladora** con experiencia práctica en automatización, soporte cloud y resolución técnica de incidencias, actualmente en transición hacia el ecosistema **Cloud/DevOps**.
 
-He trabajado en entornos híbridos utilizando **Python, Bash, Linux, Terraform, CI/CD (GitLab, Bitbucket, GitHub Actions), JFrog, Google Chat Bot, Docker (familiaridad) y monitoreo en AWS/GCP**, siempre enfocada en mejorar la eficiencia operativa y reducir tareas manuales repetitivas.
+He trabajado en entornos híbridos utilizando **Python, Bash, Linux, Terraform, CI/CD (GitLab, Bitbucket, GitHub Actions), JFrog, integraciones con APIs, Google Chat Bot y Docker (familiaridad)**, con enfoque en mejorar la eficiencia operativa y reducir tareas manuales repetitivas.
 
 Mi modelo de aprendizaje es simple:  
 **experimentar rápido, aprender con intención y mejorar de forma constante.**
@@ -28,51 +28,56 @@ Actualmente finalizo **AWS re/Start (Cloud Practitioner)** y completé un **Dipl
 - Fundamentos de Terraform para IaC  
 - CI/CD: GitLab CI/CD, Bitbucket Pipelines, GitHub Actions (familiaridad)  
 - Fortalecer análisis backend y enfoque cloud-native  
-- Monitoreo y continuidad operacional en entornos GCP/AWS  
+- Continuidad operacional y monitoreo básico en AWS  
 - Integración con APIs REST  
 
 ---
 
 ### Stack tecnológico  
 
-#### **Cloud & Infraestructura**
+#### ☁️ Cloud & Infraestructura
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
-  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="55" alt="AWS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" alt="Linux"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="45" alt="Terraform"/>
 </p>
 
-#### **Automatización & Scripting**
+#### ⚙️ Automatización & Scripting
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="45" alt="Bash"/>
 </p>
 
-#### **Herramientas & CI/CD**
+#### 🚀 Herramientas & CI/CD
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jfrog/jfrog-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" alt="GitHub"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="45" alt="GitLab"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" width="45" alt="Bitbucket"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="45" alt="Jenkins"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jfrog/jfrog-original.svg" width="45" alt="JFrog"/>
 </p>
 
-#### **Fundamentos Web (background)**
+#### 🌐 Fundamentos Web (background)
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" alt="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" width="40" alt="GraphQL"/>
 </p>
 
-#### **Otros**
+#### 🧪 Testing (nivel introductorio)
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" width="40" alt="Jest"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" width="40" alt="Pytest"/>
+</p>
+
+#### Otros
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="40" alt="Jira"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original.svg" width="40" alt="Confluence"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="32" alt="GCP"/>
 </p>
 
 ---
@@ -81,8 +86,8 @@ Actualmente finalizo **AWS re/Start (Cloud Practitioner)** y completé un **Dipl
 - Documentación clara y procesos reproducibles  
 - Simplicidad y diseño intencional  
 - Confiabilidad del servicio, automatización y eficiencia operativa  
-- Aprendizaje como disciplina, no como carrera  
-- Desarmar → arreglar → entender → mejorar  
+- Aprendizaje como disciplina, no solo como meta  
+- Desarmar → entender → mejorar  
 
 ---
 
