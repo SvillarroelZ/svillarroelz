@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.jpg" alt="SvillarroelZ_Banner" width="100%" height="60%" />
+  <img src="banner.jpg" alt="SvillarroelZ_Banner" width="80%" height="60%" />
 </p>
 
 <p align="center"><strong>Falla rápido. Mejora continuamente.</strong></p>
@@ -33,22 +33,22 @@ Actualmente finalizo **AWS re/Start (Cloud Practitioner)** y completé un **Dipl
 
 ---
 
-### Stack tecnológico  
+### Tech Stack  
 
-#### Cloud & Infraestructura
+#### ☁️ Cloud & Infrastructura
 <p>
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" alt="AWS"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Linux"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40" alt="Terraform"/>
 </p>
 
-#### Automatización & Scripting
+#### ⚙️ Automatización & Scripting
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" alt="Bash"/>
 </p>
 
-#### Herramientas & CI/CD
+#### 🚀 Herramientas & CI/CD
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" alt="Git"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" alt="GitHub"/>
@@ -58,7 +58,7 @@ Actualmente finalizo **AWS re/Start (Cloud Practitioner)** y completé un **Dipl
   <img src="https://www.vectorlogo.zone/logos/jfrog/jfrog-icon.svg" width="40" alt="JFrog"/>
 </p>
 
-#### Fundamentos Web (background)
+#### 🌐 Web Foundations (background)
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" alt="React"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
@@ -67,13 +67,13 @@ Actualmente finalizo **AWS re/Start (Cloud Practitioner)** y completé un **Dipl
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" width="40" alt="GraphQL"/>
 </p>
 
-#### Testing (nivel introductorio)
+#### 🧪 Testing
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" width="40" alt="Jest"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" width="40" alt="Pytest"/>
 </p>
 
-#### Otros
+#### 🛠 Otros
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="40" alt="Jira"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original.svg" width="40" alt="Confluence"/>
@@ -99,7 +99,7 @@ reflejan mi enfoque en **fundamentos cloud, automatización en Python y aprendiz
 
 ### Conecta conmigo  
 <p>
-  <a href="https://www.linkedin.com/in/svillarroelz">
+  <a href="www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=svillarroelz">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
   </a>
 </p>
