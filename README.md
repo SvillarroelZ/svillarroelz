@@ -10,7 +10,7 @@
 ---
 
 ### About Me  
-I'm a **developer** with hands-on experience in automation, cloud support, and technical troubleshooting — currently transitioning into the **Cloud/DevOps** ecosystem.
+I'm a **developer** with hands-on experience in automation, cloud support, and technical troubleshooting, currently transitioning into the **Cloud/DevOps** ecosystem.
 
 I’ve worked in hybrid environments using **Python, Bash, Linux, Terraform, CI/CD (GitLab, Bitbucket, GitHub Actions), JFrog, API integrations, Google Chat Bot, and Docker (familiarity)**, always focused on improving operational efficiency and reducing repetitive manual work.
 
